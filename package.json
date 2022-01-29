@@ -12,5 +12,9 @@
     "portfolio"
   ],
   "author": "SethMcKilla",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seth-McKilla/flex-my-portfolio.git"
+  }
 }
