@@ -1,6 +1,6 @@
 {
   "name": "flex-my-portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight package to flex your pinned GitHub repos on your personal site.",
   "main": "index.mjs",
   "type": "module",
