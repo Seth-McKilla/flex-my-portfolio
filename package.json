@@ -1,6 +1,6 @@
 {
   "name": "@seth-mckilla/flex-my-portfolio",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lightweight package to flex your pinned GitHub repos on your personal site.",
   "main": "index.mjs",
   "type": "module",

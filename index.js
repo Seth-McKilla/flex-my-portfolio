@@ -1,3 +1,5 @@
 export default function () {
-  console.log("Hello World, this is my first published NPM package!");
+  console.log(
+    "Hello World, just checking if the package version gets updated!"
+  );
 }
