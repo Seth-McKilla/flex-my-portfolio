@@ -1,6 +1,6 @@
 {
-  "name": "flex-my-portfolio",
-  "version": "1.0.2",
+  "name": "@seth-mckilla/flex-my-portfolio",
+  "version": "1.0.3",
   "description": "Lightweight package to flex your pinned GitHub repos on your personal site.",
   "main": "index.mjs",
   "type": "module",
@@ -13,8 +13,14 @@
   ],
   "author": "SethMcKilla",
   "license": "MIT",
+  "bin": {
+    "start": "./index.mjs"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Seth-McKilla/flex-my-portfolio.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
